@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    background: url(./abstract-blue-background-simple-design-for-your-website-free-vector.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+main {
+    margin-top: 17%;
+    color: white;
+    
+}
+h2 {
+    font-size: 2rem;
+}
+p {
+    font-size: 1.5rem;
+}
+button {
+    padding: 1%;
+    width: 10rem;
+    border-radius: 3rem;
+    color: white;
+    border: none;
+    font-family: monospace;
+    font-size: 1rem;
+}
+#click-btn {
+    background: rgb(13, 13, 162);
+}
+#click-btn:hover {
+    border: 0.4rem dashed orange;
+    padding: 0.5%;
+}
+#save-btn {
+    background: rgb(86, 180, 212);
+}
